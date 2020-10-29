@@ -1,4 +1,3 @@
 <<<<<<< HEAD
-Hallo 2 (Ã„nderungen in dev neu test - jetzt mit einem tag in dev)
-Test
+Hallo 2 (Änderungen in dev neu test - jetzt mit einem tag in dev)
 =======
